@@ -14,3 +14,6 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 </picture>
 </div>
 
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,github"/>
+</div>
