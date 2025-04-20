@@ -1,5 +1,5 @@
 ## Olá, sou Maria Klara, aluna do professor Fernando Massan.
-- 🌱 I’m currently learning programing
+-  I’m currently learning programing
   ## busy woman 👾🎮
 <div aling="center" > 
   <picture>
